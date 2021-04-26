@@ -1,0 +1,1 @@
+export const baseUrl = `https://buyngo-dev1.herokuapp.com/v1/auth/login`;
